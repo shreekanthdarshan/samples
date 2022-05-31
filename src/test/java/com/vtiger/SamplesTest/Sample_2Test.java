@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Sample_2Test {
 	@Test(groups = "sanity")
 	
-	public void bloodDonaterName() {
+	public void bloodDonorName() {
 		System.out.println("Shree");
 		System.out.println("JP");
 		System.out.println("KISHOR");
